@@ -1,6 +1,6 @@
 # find_square
 
-# Finding largest square in a map consisting of obstacle, empty, and full characters.
+## Finding largest square in a map consisting of obstacle, empty, and full characters.
 
 ## Usage
 
