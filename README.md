@@ -4,5 +4,5 @@
 
 ## Usage
 
-./BSQ <1 to n map files>
+./find_square <1 to n map files>
 or directly write to stdin map data.
